@@ -2,6 +2,8 @@
 
 This code was created by Fiocco Riccardo on 07/07/2025 (dd/mm/yyyy), this code takes changes made on a folder on your pc (cloned from the github repository using git clone), and updates them on github
 
+# Docs
+
 open the folder cmd and write this comand
 ```bash
 pip install git
